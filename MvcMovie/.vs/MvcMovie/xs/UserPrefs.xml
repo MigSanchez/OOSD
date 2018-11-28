@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{F446BC42-C6C7-43E8-BA3B-B865258EE474}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Models/Movie.cs">
+    <Files>
+      <File FileName="MvcMovie/Models/Movie.cs" Line="17" Column="9" />
+      <File FileName="MvcMovie/Controllers/MoviesController.cs" Line="74" Column="30" />
+      <File FileName="MvcMovie/Views/Movies/Index.cshtml" Line="28" Column="64" />
+      <File FileName="MvcMovie/Views/Movies/Create.cshtml" Line="28" Column="77" />
+      <File FileName="MvcMovie/Models/SeedData.cs" Line="51" Column="1" />
+      <File FileName="MvcMovie/Views/Movies/Delete.cshtml" Line="37" Column="14" />
+      <File FileName="MvcMovie/Views/Movies/Details.cshtml" Line="36" Column="14" />
+      <File FileName="MvcMovie/Views/Movies/Edit.cshtml" Line="41" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
